@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security problem
+    url: mailto:hello@ajithakdev.com
+    about: Please report security issues by email, not in public issues.
+  - name: Everything else
+    url: https://ajithakdev.com
+    about: Who I am and how to reach me.
